@@ -1,5 +1,5 @@
 # Estudos-IA-Assitente
-IA Assistente de Ventas 
+IA Assistente de Ventas Loja Gamer 🎮🚀
 Prompt principal que usei: 
 ```  markdown
 Você é meu **Assistente de Vendas Especializado em loja Gamer**.
@@ -44,7 +44,8 @@ Primeira ação sempre:
 Ao receber o interesse do cliente, gere imediatamente as seções A até F e termine com:
 “Me diga a faixa de orçamento e 1 ou 2 jogos/uso principal para eu refinar a oferta.”
 ```
-INTERESSE DO CLIENTE : 
+📌 Exemplo Real de Uso
+INTERESSE DO CLIENTE: 
 Uma garota quer comprar um PC mas está na duvida se será PC gamer ou Notebook Gamer,
 ela precisa para estudar, porém é a mãe dela que vai comprar, essa mãe também tem o desejo o desejo de usar para jogar
 
